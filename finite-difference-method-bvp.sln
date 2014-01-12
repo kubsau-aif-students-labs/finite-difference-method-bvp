@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finite-difference-method-bvp", "finite-difference-method-bvp\finite-difference-method-bvp.csproj", "{580021FA-55A7-4160-94AD-479CDAF8035A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580021FA-55A7-4160-94AD-479CDAF8035A}.Debug|x86.ActiveCfg = Debug|x86
+		{580021FA-55A7-4160-94AD-479CDAF8035A}.Debug|x86.Build.0 = Debug|x86
+		{580021FA-55A7-4160-94AD-479CDAF8035A}.Release|x86.ActiveCfg = Release|x86
+		{580021FA-55A7-4160-94AD-479CDAF8035A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
